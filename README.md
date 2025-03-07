@@ -1,7 +1,6 @@
 ## My random hobby space
-Here you can find chess engine and some robotic stuff.
+Here you can find chess engine and some robotic stuffs.
 
-Currently learning physics engine and some graphics programming.
 
 <!--
 **MichemHoang/MichemHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

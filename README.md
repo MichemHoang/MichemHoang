@@ -1,4 +1,5 @@
-## Hi there 👋
+## My random hobby space
+here you can find chess engine and some robotic stuff.
 
 <!--
 **MichemHoang/MichemHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
